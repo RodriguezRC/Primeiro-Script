@@ -1,0 +1,210 @@
+html, body, .capa{
+	height: 100%;
+}
+
+body {
+	font-family: Helvetica,Arial,sans-serif;
+    background-image: url('img/ima.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+   
+	
+}
+
+#box{
+
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    padding: 8px;
+    background: #e2ebda;
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding: 10px;
+    box-shadow: 20px 20px 20px rgba(0,0,0,.5);
+
+
+
+}
+
+.im{
+	margin-left: -4px;
+
+}
+
+.estih2{
+
+	color: white;
+	font-size:25px;
+}
+
+.estih3{
+	color:white;
+	font-size:25px;
+}
+.capa{
+	display: table;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.monitorar {
+
+	color: white;
+	font-size: 20px;
+}
+
+.texto-capa{
+	color: white;
+	font-family: initial;
+
+}
+
+footer {
+	background: #ddd9ce;
+	position: relative;
+	padding: 35px 0px 20px 0px;
+	
+}
+
+.btn-reset{
+	background-color: #111a08;
+	color: white;
+}
+
+.btn-enviar:hover{
+    color: #E17C0F;
+}
+
+.btn-enviar{
+    background-color: #D9E6D9;
+}
+
+.btn-voltar{
+    background-color: #E17C0F;
+    color: white;
+}
+
+
+.btn-logar{
+	background-color: #111a08;
+	color: white;
+}
+
+
+.errologin{
+	color: white;
+}
+.erro_enviar{
+	color: red;
+}
+.vagas_enviadas{
+	color: white;
+}
+
+.rede-social{
+	float: right;
+}
+
+.unidade-um{
+	background-color: #f5822e;
+	color: white;
+	margin-top: 10px;
+}
+
+.unidade-um:hover{
+
+	color: #101908;
+
+}
+.unidade-tres{
+	background-color: #f38c41;
+	color: white;
+	margin-top: 10px;
+}
+
+.unidade-tres:hover{
+
+	color: #101908;
+
+}
+
+
+.img-logo{
+	height: 58px;
+	width: 268px;
+	display: block;
+	background-size: contain;
+	color: transparent;
+}
+
+nav.navbar-transparente{
+	padding: 15px 0px;
+	background: rgb(0, 0, 0, 0.6);
+	border: none;
+
+}
+
+.navbar-brand{
+	padding: 0px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a,{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #9bf0e1;
+	background: none;
+}
+#rodape .nav a{
+	color: #000;
+}
+#rodape .nav a:hover{
+	color: green;
+	background: none;
+}
+
+h1{
+	font-size:50px;
+	text-align: center;
+	font-weight: 900;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+}
+
+h2{
+	font-size:50px;
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+h3{
+	font-size:35px;
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+#rodape h4{
+	color: #000;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.log{
+	font-family: Trattatello, initial;
+	color: black;
+	font-size:18px;
+}
+
+.img-logo{
+	height: 40px;
+	width: 132px;
+	display: block;
+	background: url('img/logo.png') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
